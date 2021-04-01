@@ -1,0 +1,6 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+New[[:space:]]Terrain.asset filter=lfs diff=lfs merge=lfs -text
+DefaultSplatmap.txt filter=lfs diff=lfs merge=lfs -text
+HeightSplatmap.txt filter=lfs diff=lfs merge=lfs -text
+SlopeSplatmap.txt filter=lfs diff=lfs merge=lfs -text
+5d7fb92a419196141b2d79596cef6c81 filter=lfs diff=lfs merge=lfs -text
